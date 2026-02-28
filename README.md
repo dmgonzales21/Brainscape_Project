@@ -34,3 +34,5 @@ This tool is built on the Minimum Redundancy Principle. By treating the Prompt L
 
 Author: Darrin Gonzales
 Role: Linguistic Architect & AI Prompt Engineer
+
+NOTES: v.2 is prompted to add additional information to the answers produced by the program in additon to the core answer of the question, providing helpful context that grounds the answer in additional concepts while not overloading the resulting answer. Additional details are meant to be as broad as possible so that they are, in general, compatible with the general knowledge base being evaluated in relation to the question asked
